@@ -1,0 +1,23 @@
+{
+  "name": "promises-a-plus",
+  "version": "1.0.0",
+  "description": "A Typescript binding for PromisesA Plus, ported from DefinitelyType/promises-a-plus for typings utility",
+  "main": "lib/promises-a-plus.d.ts",
+  "scripts": {
+    "test": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/olivr70/typings-promises-a-plus.git"
+  },
+  "keywords": [
+    "promises",
+    "typescript"
+  ],
+  "author": "Olivier CHEVET",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/olivr70/typings-promises-a-plus/issues"
+  },
+  "homepage": "https://github.com/olivr70/typings-promises-a-plus#readme"
+}

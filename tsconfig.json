@@ -1,0 +1,11 @@
+{
+  "compilerOptions": {
+    "target": "es6",
+    "module": "commonjs"
+  },
+  "files":[
+    "typings/main.d.ts",
+    "lib/promises-a-plus.d.ts",
+    "test/promises-a-plus_spec.ts"
+  ]
+}
