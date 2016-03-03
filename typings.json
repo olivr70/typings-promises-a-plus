@@ -1,4 +1,6 @@
 {
+  "name": "promises-a-plus",
+  "main": "lib/promises-a-plus.d.ts",
   "ambientDependencies": {
     "q": "github:DefinitelyTyped/DefinitelyTyped/q/Q.d.ts#4de74cb527395c13ba20b438c3a7a419ad931f1c",
     "rx": "github:DefinitelyTyped/DefinitelyTyped/rx/rx.d.ts#4d86cc24082d6703ecaee46ecc970bd0ac744236",
